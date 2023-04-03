@@ -1,310 +1,9 @@
 {
-    "xiaofeng583": {
-        "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": false,
-        "isAlert": false,
-         "countryCodes": ["TR","PH","BR"],
-        "adjustParams": [
-            {
-                "name": "deposit-success",
-                "value": "nycogw"
-            },
-            {
-                "name": "signup-success",
-                "value": "pziizn"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "6pwntv"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "evc60y"
-            },
-            {
-                "name": "register-success",
-                "value": "hya4f4"
-            },
-            {
-                "name": "register",
-                "value": "m9naub"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "t5k2g2"
-            }
-          
-        ]
-    },
-    "xiaofeng584": {
+    "xiaofeng693": {
         "url": "https://www.49jili.com/?pid=pagcor777",
         "isToPage": false,
         "isAlert": false,
-        "adjustParams": [
-           {
-                "name": "deposit-success",
-                "value": "s3xwon"
-            },
-            {
-                "name": "signup-success",
-                "value": "t1qpre"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "55nbfy"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "2ybjmo"
-            },
-            {
-                "name": "register-success",
-                "value": "tztrnu"
-            },
-            {
-                "name": "register",
-                "value": "5h9m1b"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "1aba7a"
-            }
-        ]
-    },
-    "xiaofeng856": {
-        "url": "https://www.jilievo.ph/index?affiliateCode=www044",
-        "isToPage": true,
-        "isAlert": false,
-        "countryCodes": ["PH","LA"],
-        "adjustParams": [
-            {
-                "name": "deposit-success",
-                "value": "s1idgs"
-            },
-            {
-                "name": "signup-success",
-                "value": "fllzot"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "e6oakc"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "dh71nc"
-            },
-            {
-                "name": "register-success",
-                "value": "64mnax"
-            },
-            {
-                "name": "register",
-                "value": "9u2ga2"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "1f0tk8"
-            }
-        ]
-    },
-    "xiaofeng857": {
-         "url": "https://www.minibet88.com/?pid=wjvip26",
-        "isToPage": true,
-        "isAlert": false,
-          "countryCodes": ["PH","LA"],
-        "adjustParams": [
-            {
-                "name": "deposit-success",
-                "value": "v74438"
-            },
-            {
-                "name": "signup-success",
-                "value": "d7hwxx"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "fg1d8v"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "r79ewj"
-            },
-            {
-                "name": "register-success",
-                "value": "aye57u"
-            },
-            {
-                "name": "register",
-                "value": "lvzw0p"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "51g5po"
-            }
-        ]
-    },
-    "xiaofeng859": {
-          "url": "https://www.minibet88.com/?pid=wjvip27",
-        "isToPage": true,
-        "isAlert": false,
-          "countryCodes": ["PH","LA"],
-        "adjustParams": [
-            {
-                "name": "deposit-success",
-                "value": "iwzge4"
-            },
-            {
-                "name": "signup-success",
-                "value": "1yf34p"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "htrmfw"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "k5quza"
-            },
-            {
-                "name": "register-success",
-                "value": "4kguew"
-            },
-            {
-                "name": "register",
-                "value": "l6vfzk"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "66y8jr"
-            }
-        ]
-    },
-    "xiaofeng860": {
-         "url": "https://www.minibet88.com/?pid=wjvip28",
-         "isToPage": true,
-        "isAlert": false,
-          "countryCodes": ["PH","LA"],
-        "adjustParams": [
-            {
-                "name": "deposit-success",
-                "value": "u95aov"
-            },
-            {
-                "name": "signup-success",
-                "value": "cpdepx"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "fo1wv8"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "wqzox0"
-            },
-            {
-                "name": "register-success",
-                "value": "l4pyl9"
-            },
-            {
-                "name": "register",
-                "value": "jcgl1b"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "o1tl88"
-            }
-          
-        ]
-    },
-    "xiaofeng876": {
-        "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": true,
-        "isAlert": false,
-        "countryCodes": ["TR","PH","BR","HK"],
-        "adjustParams": [
-           {
-                "name": "deposit-success",
-                "value": "86dk72"
-            },
-            {
-                "name": "signup-success",
-                "value": "6arrzk"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "luqxv1"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "3yxkh8"
-            },
-            {
-                "name": "register-success",
-                "value": "9zc10y"
-            },
-            {
-                "name": "register",
-                "value": "x0wvqv"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "v5o3n7"
-            },
-            {
-                "name": "adj_complete_registration",
-                "value": "lcjvu7"
-            },
-            {
-                "name": "adj_purchase1",
-                "value": "mz8cqe"
-            },
-            {
-                "name": "adj_purchase1_value",
-                "value": "28sowy"
-            }
-        ]
-    },
-    "xiaofeng877": {
-      "url": "https://www.minibet88.com/?pid=wjvip29",
-         "isToPage": true,
-        "isAlert": false,
-        "countryCodes": ["PH","LA"],
-        "adjustParams": [
-            {
-                "name": "deposit-success",
-                "value": "8eoh5z"
-            },
-            {
-                "name": "signup-success",
-                "value": "1ih2ee"
-            },
-            {
-                "name": "first-deposit-success",
-                "value": "ah06wp"
-            },
-            {
-                "name": "first-recharge-success",
-                "value": "g8p938"
-            },
-            {
-                "name": "register-success",
-                "value": "hfieg6"
-            },
-            {
-                "name": "register",
-                "value": "2bgwhd"
-            },
-            {
-                "name": "firstDeposit",
-                "value": "iao95f"
-            }
-        ]
-    },
-    "xiaofeng878": {
-        "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": true,
-        "isAlert": false,
-        "countryCodes": ["TR","PH","LA","HK"],
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -348,40 +47,430 @@
             }
         ]
     },
-    "xiaofeng879": {
-         "url": "https://www.minibet88.com/?pid=wjvip30",
-        "isToPage": true,
+    "xiaofeng694": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": false,
         "isAlert": false,
-        "countryCodes": ["PH","LA"],
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
-                "value": "vudaav"
+                "value": "civ80d"
             },
             {
                 "name": "signup-success",
-                "value": "g25uvn"
+                "value": "vn4rfg"
             },
             {
                 "name": "first-deposit-success",
-                "value": "ky9alw"
+                "value": "nhrc80"
             },
             {
                 "name": "first-recharge-success",
-                "value": "e5evs4"
+                "value": "thvxfm"
             },
             {
                 "name": "register-success",
-                "value": "nuy5u5"
+                "value": "hlzp7e"
             },
             {
                 "name": "register",
-                "value": "1oo4qw"
+                "value": "uut41l"
             },
             {
                 "name": "firstDeposit",
-                "value": "sgq5l9"
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    },
+    "xiaofeng695": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": false,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    },"xiaofeng696": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": false,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    },"xiaofeng697": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": false,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    },"xiaofeng698": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    },"xiaofeng884": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    },"xiaofeng885": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    }"xiaofeng887": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
+            }
+        ]
+    }"xiaofeng888": {
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "civ80d"
+            },
+            {
+                "name": "signup-success",
+                "value": "vn4rfg"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "nhrc80"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "thvxfm"
+            },
+            {
+                "name": "register-success",
+                "value": "hlzp7e"
+            },
+            {
+                "name": "register",
+                "value": "uut41l"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ytb5xy"
+            },
+            {
+                "name": "adj_complete_registration",
+                "value": "wa6lad"
+            },
+            {
+                "name": "adj_purchase1",
+                "value": "eku271"
+            },
+            {
+                "name": "adj_purchase1_value",
+                "value": "esfw0z"
             }
         ]
     }
+    
 }
